@@ -1,0 +1,22 @@
+[
+  {
+    "ORDER_REF": "1",
+    "DEVICE": "Сервер",
+    "MODEL": "Dell PowerEdge R740",
+    "PROBLEM": "Отказ RAID-контроллера",
+    "STATUS": "successful",
+    "STARTED_AT": "2024-06-10 08:00:00",
+    "FINISHED_AT": "2024-06-11 18:30:00",
+    "COST": 45800.00
+  },
+  {
+    "ORDER_REF": "3",
+    "DEVICE": "МФУ",
+    "MODEL": "Canon imageRUNNER",
+    "PROBLEM": "Ошибка термоблока",
+    "STATUS": "in progress",
+    "STARTED_AT": "2024-06-12 09:00:00",
+    "FINISHED_AT": "",
+    "COST": 0
+  }
+]
